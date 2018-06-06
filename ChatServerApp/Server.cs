@@ -12,7 +12,6 @@ namespace ChatServerApp
     {
         private const int MAX_CLIENT_QUEUE = 3;
         private List<Socket> sockets = new List<Socket>();
-        
 
         public void Work(Socket serverSocket)
         {
@@ -93,6 +92,17 @@ namespace ChatServerApp
                                 }
                             }
                             sockets[socketIndex].Shutdown(SocketShutdown.Both);
+                        }
+                        else if (newMessage.Message == "upload")
+                        {
+                            for (int i = 0; i < sockets.Count; i++)
+                            {
+                                if (i != socketIndex)
+                                {
+                                    string serialized = JsonConvert.SerializeObject(newMessage);
+                                    sockets[i].Send(Encoding.Default.GetBytes(serialized));
+                                }
+                            }
                         }
                         else
                         {

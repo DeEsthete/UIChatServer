@@ -26,3 +26,13 @@ C:\Users\djoni\Desktop\PROJECTS\UIChatServerApp-Net-\ChatServerApp\obj\Debug\Cha
 C:\Users\djoni\Desktop\PROJECTS\UIChatServerApp-Net-\ChatServerApp\obj\Debug\ChatServerApp.csproj.CoreCompileInputs.cache
 C:\Users\djoni\Desktop\PROJECTS\UIChatServerApp-Net-\ChatServerApp\obj\Debug\ChatServerApp.exe
 C:\Users\djoni\Desktop\PROJECTS\UIChatServerApp-Net-\ChatServerApp\obj\Debug\ChatServerApp.pdb
+C:\Users\ПавловЕ\Desktop\projects 2\UIChatServer\ChatServerApp\bin\Debug\ChatServerApp.exe.config
+C:\Users\ПавловЕ\Desktop\projects 2\UIChatServer\ChatServerApp\bin\Debug\ChatServerApp.exe
+C:\Users\ПавловЕ\Desktop\projects 2\UIChatServer\ChatServerApp\bin\Debug\ChatServerApp.pdb
+C:\Users\ПавловЕ\Desktop\projects 2\UIChatServer\ChatServerApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ПавловЕ\Desktop\projects 2\UIChatServer\ChatServerApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ПавловЕ\Desktop\projects 2\UIChatServer\ChatServerApp\obj\Debug\ChatServerApp.csprojResolveAssemblyReference.cache
+C:\Users\ПавловЕ\Desktop\projects 2\UIChatServer\ChatServerApp\obj\Debug\ChatServerApp.csproj.CoreCompileInputs.cache
+C:\Users\ПавловЕ\Desktop\projects 2\UIChatServer\ChatServerApp\obj\Debug\ChatServerApp.csproj.CopyComplete
+C:\Users\ПавловЕ\Desktop\projects 2\UIChatServer\ChatServerApp\obj\Debug\ChatServerApp.exe
+C:\Users\ПавловЕ\Desktop\projects 2\UIChatServer\ChatServerApp\obj\Debug\ChatServerApp.pdb
